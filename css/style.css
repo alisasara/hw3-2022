@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Verdana;
     background-color:#000000;
-    margin: 20px 20px;
+    margin: 20px 20px 0px 20px;
     color: white;
 }
 
@@ -44,8 +44,8 @@ div{
     background-color: #FF0000 ;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px;
-    border-left: 5px;
+    border-bottom: 5px;
+    border-left: 2px;
 }
 .blue{
     color: #C4C4C4;
